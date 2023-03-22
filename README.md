@@ -1,6 +1,5 @@
 # pandas-challenge
 Using Pandas and Jupyter Notebook to draw two observable trends based on the PyCitySchool data
-<<<<<<< HEAD
 
 Local Government Area (LGA) Summary Analysis
 Performed calculation and analysis for the following:
